@@ -10,7 +10,8 @@ namespace ConsoleApplication42
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vezbanje");
+            Console.WriteLine("Prva promena");
+            Console.WriteLine("koliko");
         }
     }
 }
